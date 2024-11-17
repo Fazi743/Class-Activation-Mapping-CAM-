@@ -45,6 +45,6 @@ Generate a heatmap showing the important regions for the predicted class.
 Display the input image with the superimposed heatmap.
 
 ## Applications
-Explainability in deep learning models.
-Debugging and improving model predictions.
-Object localization in images.
+- Explainability in deep learning models.
+- Debugging and improving model predictions.
+- Object localization in images.
