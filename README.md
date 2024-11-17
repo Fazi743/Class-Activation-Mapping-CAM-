@@ -27,8 +27,9 @@ pip install numpy tensorflow matplotlib opencv-python Pillow
 Clone this repository:
 
 ```bash
-Copy code
 git clone https://github.com/your-username/Class-Activation-Mapping-CAM.git
+```
+```
 cd Class-Activation-Mapping-CAM
 ```
 Add your input image (e.g., IMG20240605140005.jpg) in the repository folder.
