@@ -37,7 +37,6 @@ Add your input image (e.g., IMG20240605140005.jpg) in the repository folder.
 Run the script:
 
 ```bash
-Copy code
 python cam_visualization.py
 ```
 ### The script will:
